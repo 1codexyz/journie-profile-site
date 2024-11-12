@@ -22,7 +22,7 @@ footer: © 2024 1Code Pte. Ltd. All Rights
 
 ## What is Journie app?
 
-Journie is a fun and simple app that helps users explore and discover nearby places while they travel.
+Journie is a fun and easy-to-use app that helps users explore and discover nearby places while traveling.
 
 
 ### Download Journie
